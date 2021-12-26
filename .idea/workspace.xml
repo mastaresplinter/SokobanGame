@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825a1709-0333-43bf-842f-eee7d0fe6e78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlankMarkedTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlankMarkedTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlankTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlankTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrateTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrateTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heatmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heatmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MovableTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MovableTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoveObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoveObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NonPlayerSokobanTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NonPlayerSokobanTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayerTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sokoban.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sokoban.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SokobanMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SokobanMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestGameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestGameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WallTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WallTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Winchecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Winchecker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sWm8H5SG1wrrmCXGtwF5JimPsm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Sokoban">
+    <configuration name="Sokoban" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sokoban" />
+      <module name="AOOPproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestGameFrame" />
+      <module name="AOOPproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sokoban" />
+        <item itemvalue="Application.TestGameFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825a1709-0333-43bf-842f-eee7d0fe6e78" name="Default Changelist" comment="" />
+      <created>1620997138553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620997138553</updated>
+    </task>
+    <servers />
+  </component>
+</project>
